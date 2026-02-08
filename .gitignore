@@ -1,0 +1,24 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+
+# Environment-specific configuration
+config.json
+error.log
+
+# Transcription results
+results/
+
+# IDE settings
+.vscode/
+.cursor/
+
+# System-specific files
+Thumbs.db
+Desktop.ini
+.DS_Store

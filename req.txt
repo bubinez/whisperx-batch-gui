@@ -1,0 +1,4 @@
+# Установка (игнор совместимости с версией Python): python -m pip install -r req.txt --ignore-requires-python
+torch>=2.8.0
+torchaudio<2.9.0
+whisperx>=3.5.0
