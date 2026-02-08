@@ -1,4 +1,8 @@
-# 🎙️ WhisperX GUI (Batch processing)
+# 🎙️ whisperx-batch-gui
+
+**Advanced Windows GUI for WhisperX with dynamic batch management, drag-and-drop queue, and speaker diarization support.**
+
+> **Topics:** `whisperx`, `gui`, `transcription`, `diarization`, `python-3-13`, `windows-app`, `batch-processing`
 
 A powerful graphical user interface for **WhisperX**, designed for batch transcription and speaker diarization of audio files. The project is optimized for Windows and supports dynamic queue management.
 
